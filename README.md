@@ -1,5 +1,3 @@
-# student-form-project
-A dynamic student form with subjects, marks, and image preview (single &amp; multiple).
 # 🎓 Student Form Project
 
 A simple and interactive student form built using HTML, CSS, and JavaScript.  
